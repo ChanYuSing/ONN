@@ -62,6 +62,10 @@ report/ONN.code-workspace
 # Unrelated course materials (stay local, not on GitHub)
 # ============================================================
 caes/
+calibration/
+docs/
+paper/
+report/
 
 # ============================================================
 # OS / Editor
